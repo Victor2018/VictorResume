@@ -62,53 +62,53 @@
 
 - **半面**
 
- - 使用到的技术
+  - **使用到的技术：**
  
-     Room，Paging 3，Workmanager，LiveData,Arouter,retrofit，云信IM，fastjson，Rxbus, butterknife注解，微信支付，支付宝支付，微信分享，qq分享
+    Room，Paging 3，Workmanager，LiveData,Arouter,retrofit，云信IM，fastjson，Rxbus, butterknife注解，微信支付，支付宝支付，微信分享，qq分享
      
- - 项目描述
+  - **项目描述：**
  
     此项目是一个陌生人交友的app。主要功能：1，发送文本、图片、视频、阅后即焚消息；2，发布节目、动态功能；3，真人认真功能等
 
 - **点购特产**
 
- - 使用到的技术
+  - **使用到的技术：**
   
     高德地图，material design，glide，okhttp，butterknife，贝塞尔曲线，动画,fastjson
     
- - 项目描述
+  - **项目描述：**
   
     此项目是点购特产中的一个短视频及地图模块。主要功能：1，短视频的拍摄处理上传发布和浏览播放功能；2，地图投放礼包功能；3，语音搜索功能；4，家乡圈功能；5，家乡话功能；
 
 - **LongPlayer（公共组件）**
 
- - 使用到的技术
+  - **使用到的技术：**
   
     MediaPlayer,jsoup,okhttp,fastjson，SQLite
   
- - 项目描述
+  - **项目描述：**
     
     此项目是基于原生MediaPlayer开发的一款播放器。主要功能：1，支持YouTube，Vimeo，Facebook国外主流视频播放以及m3u8直播和点播视频流的播放；2，播放影片是可快进快退；3，支持断点续播；4，支持手势调节音量，亮度，拖动进度
     
     
 - **LongTV**
 
- - 使用到的技术
+  - **使用到的技术：**
   
     material design，glide，okhttp，butterknife，贝塞尔曲线，动画,fastjson，socket通信
   
- - 项目描述
+  - **项目描述：**
       
       此项目是一款视频播放类app，主要功能有:1,机顶盒的扫码绑定功能，2.直播，点播，短视频的播放，搜索，收藏，断点续播，播放历史记录功能，3，投屏功能，4，支持Rss源播放，5，清理缓存功能，5，谷歌支付功能。
   
  
 - **Meetgo**
  
- - 使用到的技术
+  - **使用到的技术：**
  
     IM，FCM, googleplay In-app-billing，fastjson，volley，greendao,Rxbus, butterknife注解，PayPal提现
     
- - 项目描述
+  - **项目描述：**
     
     此项目是一个服务海外的交友类app，主要功能有：1，视频通话；2，礼物赠送；3，私信；4；新关注提醒，粉丝上线提醒；5，充值功能（采用googleplay内购支付）；6，提现功能（采用paypal提现）；7，个人资料模块；8，相册模块等。
 
