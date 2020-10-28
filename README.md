@@ -1,7 +1,7 @@
 # VictorResume
  
 
-<img src="./assets/Resume.png">
+<img src="https://i.loli.net/2020/10/28/Am7eKGMYsWgbZD4.png">
 
 
 ## 如何使用
@@ -16,31 +16,31 @@
 
 （1）将 resume.css 复制到 Typora 的主题文件夹
 
-![](assets/1.png)
+![image](https://i.loli.net/2020/10/28/IapwNxlAzZmCoBg.png)
 
 （2）主题文件夹可以在“文件->偏好设置->主题文件夹“中打开
 
-![](assets/2.png)
+![image](https://i.loli.net/2020/10/28/RAS2XsNCjy8QThd.png)
 
-![](assets/3.png)
+![image](https://i.loli.net/2020/10/28/zfYuFWxUI52rbV6.png)
 
 （3）之后重启一下 Typora 编辑器，并在主题中选择 Resume。
 
-![](assets/4.png)
+![image](https://i.loli.net/2020/10/28/dftRNFWp1LOQc63.png)
 
 （4）使用以下方式导出成 HTML：文件 -> 导出 -> HTML
 
-![](assets/5.png)
+![image](https://i.loli.net/2020/10/28/xFoWlkv2ar5GbsR.png)
 
 （5）使用浏览器打开导出的 HTML 文件，并按“ctrl+P”打印，需要去除页眉页脚。
 
-![](assets/6.png)
+![image](https://i.loli.net/2020/10/28/aqXWNU6uzM1LfpZ.png)
 
 
 # 关注开发者：
 - 邮箱： victor423099@gmail.com
 - 新浪微博
-- ![image](/assets/sina_weibo.jpg)
+- ![image](https://i.loli.net/2020/10/28/RkqjGtn8om2WaZP.jpg)
 
 ## License
 
