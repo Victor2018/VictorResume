@@ -2,23 +2,23 @@
      <h1>个人简历</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
+             <img src="https://i.loli.net/2020/10/30/wcUgt2vV9jxy514.png" width="18px">
              1881 3938 924
          </span>
          ·
          <span>
-             <img src="assets/envelope-solid.svg" width="18px">
+             <img src="https://i.loli.net/2020/10/30/wKOIdzhJXUWioDN.png" width="18px">
              zhanghaifeng903@sina.com
          </span>
          ·
          <span>
-             <img src="assets/github-brands.svg" width="18px">
+             <img src="https://i.loli.net/2020/10/30/D9YVFQkL7svycd8.png" width="18px">
              <a href="https://github.com/Victor2018">Victor2018</a>
          </span>
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+ ## <img src="https://i.loli.net/2020/10/30/iOIEKhnQteuL6ZY.png" width="30px"> 个人信息 
 
  - 姓名： 张海锋
  - 性别：男
@@ -27,12 +27,12 @@
  - 工作经验：7 年
  - 期望薪资：面议
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img src="https://i.loli.net/2020/10/30/PXeWgEpfcH5DbTC.png" width="30px"> 教育经历
 
 - 大专，武汉警官职业学院，计算机应用技术专业，2009.9~2012.6
 - 通过了 CET3 英语等级考试
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="https://i.loli.net/2020/10/30/21wKnAvydTrSaXC.png" width="30px"> 工作经历
 
 - **深圳市视维科技有限公司，研发部，软件工程师，2013.4~2015.6**
 
@@ -58,7 +58,7 @@
 
     主要负责半面项目的需求讨论，框架搭建及功能的开发。
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+## <img src="https://i.loli.net/2020/10/30/bhL1AFEUxXORTNl.png" width="30px"> 项目经历
 
 - **半面**
 
@@ -112,7 +112,7 @@
     
     此项目是一个服务海外的交友类app，主要功能有：1，视频通话；2，礼物赠送；3，私信；4；新关注提醒，粉丝上线提醒；5，充值功能（采用googleplay内购支付）；6，提现功能（采用paypal提现）；7，个人资料模块；8，相册模块等。
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+## <img src="https://i.loli.net/2020/10/30/Jh2KxyqcBoR5ZLb.png" width="30px"> 技能清单
 
 - ★★★ Java
 - ★★★ Kotlin
