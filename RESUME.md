@@ -25,7 +25,7 @@
  - 出生年月：1990.3
  - 求职意向：Android 开发工程师
  - 工作经验：7 年
- - 期望薪资：面议
+ - 期望薪资：25K
 
 ## <img src="https://i.loli.net/2020/10/30/PXeWgEpfcH5DbTC.png" width="30px"> 教育经历
 
